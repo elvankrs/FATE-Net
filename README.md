@@ -8,5 +8,5 @@ Please install requirements using the following command:
 To train:
 `python train.py --config='config_cv1'`
 
-To evaluate: \
+To evaluate:
 `python eval.py --config='config_cv1'`
