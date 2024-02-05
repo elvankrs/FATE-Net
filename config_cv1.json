@@ -1,0 +1,12 @@
+{
+	"learning_rate": 1e-4,
+	"batch_size": 1671,
+	"max_epoch": 1500,
+	"embed_dim": 32,
+	"proj_dim": 64,
+	"final_dim": 128,
+	"model_dir": "./models/NACC/cv1_next",
+	"data_path": "./data/NACC/cv1/",
+	"dataset": "NACC",
+	"model_type": "1DCNN_time_emb"
+}

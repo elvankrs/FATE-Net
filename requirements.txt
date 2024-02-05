@@ -1,0 +1,6 @@
+numpy==1.21.6
+matplotlib
+torch
+pandas
+pytorch-lightning
+scikit-learn
